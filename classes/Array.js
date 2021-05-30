@@ -52,8 +52,7 @@ class MyArray {
   unShiftIndex(item, index) {
     const savedData = { ...this.data }
 
-    for (let i = index; i < this.length; ++i)
-      this.data[i + 1] = savedData[i]
+    for (let i = index; i < this.length; ++i) this.data[i + 1] = savedData[i]
 
     this.data[index] = item
     ++this.length
