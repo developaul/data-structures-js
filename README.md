@@ -2,3 +2,4 @@
 
 1. Arrays ✅
 2. Hash Tables ✅
+3. Linked List ✅
