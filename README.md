@@ -4,3 +4,4 @@
 2. Hash Tables ✅
 3. Linked List ✅
 4. Stacks ✅
+5. Queues ✅
