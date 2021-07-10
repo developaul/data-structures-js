@@ -6,3 +6,4 @@
 4. Stacks ✅
 5. Queues ✅
 6. Trees ✅
+7. Graph ✅
